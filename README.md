@@ -25,13 +25,13 @@ This repository introduces how to prepare ML model for production in AWS Sagemak
 - Create dedicated virtual environment to perform the whole example in this repo
 - Create a new conda virtual environment in the working directory and activate with the following command in the terminal:
 
-conda create --name deploy_ml python=3.8
-conda activate deploy_ml
+ - conda create --name deploy_ml python=3.8
+ - conda activate deploy_ml
 
 ### Step 2:
 - Install mlflow package into our virtual environment with the following command:
 
-pip install -q mlflow==1.18.0.
+ - pip install -q mlflow==1.18.0.
 
 Install following modules and packages to the virtual environment:
  - Pandas: pip install pandas
