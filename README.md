@@ -81,8 +81,10 @@ Once the model is running in AWS, boto3 library is used for new prediction for a
 - Open the terminal with activated virtual environment deploy_ml.
 - Run predicting with the prediction.py file using command python predict.py
 
-## Store the final model and results.json file in AWS S3 Bucket
+## Finally Store the final model and results.json file in AWS S3 Bucket
 
+
+---
 
 
 ### Reference Code and Instructions
